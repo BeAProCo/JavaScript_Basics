@@ -2,7 +2,7 @@
  * @param {string} name
  */
 function shoutMyName(name) {
-    let uppercaseName = name.toUpperCase;
+    let uppercaseName = name.toUpperCase(); // Convert the name to uppercase
     return uppercaseName; 
     
     }
